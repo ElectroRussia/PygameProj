@@ -1,3 +1,6 @@
+# This is the main class that "puts it all together" and manages all of the 
+# objects directly related to the game window.
+
 import pygame
 from player import Player
 from fps import fps_limiter
